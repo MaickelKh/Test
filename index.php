@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Première version modifiée</h1>
+    <h2>Github ne mets à jour avec commit que les fichiers modifiés</h2>
 </body>
 </html>
