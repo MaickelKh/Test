@@ -10,5 +10,6 @@
     <h1>Première version modifiée</h1>
     <h2>Github ne mets à jour avec commit que les fichiers modifiés</h2>
     <h3>Modification effectuée depuis mon pc portable</h3>
+    <h4>Modifier avec Live Share pour permettre le travail d'équipe</h4>
 </body>
 </html>
